@@ -10,8 +10,6 @@
 ## 这不对吗?
 ![](https://github.com/purel4nd/LangYaInfo/blob/main/images/LangYa1.png)
 ![](https://github.com/purel4nd/LangYaInfo/blob/main/images/Velocity%20Onlyground%20by%20LangYa.png)
-## AntiCrack by LangYa
-![](https://github.com/purel4nd/LangYaInfo/blob/main/images/tg%20anticrack.png)
 ## Java怎么判断字符串为空?
 ![](https://github.com/purel4nd/LangYaInfo/blob/main/images/LangYa2.png)
 ![](https://github.com/purel4nd/LangYaInfo/blob/main/images/java%20master1.png)
